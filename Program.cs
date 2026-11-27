@@ -1,6 +1,8 @@
-﻿namespace Github_Test
+﻿using System;
+
+namespace Github_Test
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
